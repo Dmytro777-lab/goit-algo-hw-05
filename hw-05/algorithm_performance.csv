@@ -1,0 +1,13 @@
+Text,Pattern Type,Algorithm,Time
+text1,Existing,Boyer-Moore,0.00031174998730421066
+text1,Existing,Knuth-Morris-Pratt,0.00074712501373142
+text1,Existing,Rabin-Karp,0.0018008340848609805
+text1,Non-Existing,Boyer-Moore,0.0002090000780299306
+text1,Non-Existing,Knuth-Morris-Pratt,0.0007220829138532281
+text1,Non-Existing,Rabin-Karp,0.0017392500303685665
+text2,Existing,Boyer-Moore,0.00040141597855836153
+text2,Existing,Knuth-Morris-Pratt,0.0009410419734194875
+text2,Existing,Rabin-Karp,0.002456040936522186
+text2,Non-Existing,Boyer-Moore,0.0002666669897735119
+text2,Non-Existing,Knuth-Morris-Pratt,0.0010642500128597021
+text2,Non-Existing,Rabin-Karp,0.0024040830321609974
